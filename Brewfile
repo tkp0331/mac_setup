@@ -25,6 +25,7 @@ cask "vlc"
 cask "dropbox"
 cask "alfred"
 cask "mendeley"
+cask "unity-hub"
 
 mas "Slack", id: 803453959
 mas "LINE", id: 539883307
