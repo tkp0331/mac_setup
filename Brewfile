@@ -30,3 +30,5 @@ cask "unity-hub"
 mas "Slack", id: 803453959
 mas "LINE", id: 539883307
 mas "Magnet", id: 441258766
+mas "Kindle", id: 405399194
+mas "Microsoft To-Do", id:1274495053
