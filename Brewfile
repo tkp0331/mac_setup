@@ -14,6 +14,7 @@ brew "awscli"
 
 cask "skype"
 #cask "virtualbox"
+#cask "viber"
 cask "docker"
 cask "amazon-music"
 cask "appcleaner"
@@ -31,6 +32,7 @@ cask "android-studio"
 
 mas "Slack", id: 803453959
 mas "LINE", id: 539883307
+mas "Twitter", id: 409789998
 mas "Magnet", id: 441258766
 mas "Kindle", id: 405399194
 mas "Microsoft To-Do", id:1274495053
