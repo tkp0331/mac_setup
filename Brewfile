@@ -11,6 +11,7 @@ brew "zsh-completions"
 brew "mysql"
 brew "htop"
 brew "awscli"
+brew "postgresql"
 
 cask "skype"
 #cask "virtualbox"
@@ -29,6 +30,8 @@ cask "mendeley"
 cask "unity-hub"
 cask "java"
 cask "android-studio"
+cask "pycharm-ce"
+cask "sourcetree"
 
 mas "Slack", id: 803453959
 mas "LINE", id: 539883307
