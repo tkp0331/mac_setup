@@ -12,6 +12,8 @@ brew "mysql"
 brew "htop"
 brew "awscli"
 brew "postgresql"
+brew "nodebrew"
+brew "poetry"
 
 cask "skype"
 #cask "virtualbox"
