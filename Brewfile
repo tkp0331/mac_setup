@@ -17,6 +17,7 @@ brew "nodebrew"
 brew "poetry"
 brew "pyenv"
 brew "nkf"
+brew "deepl"
 
 cask "skype"
 cask "background-music"
